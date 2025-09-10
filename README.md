@@ -42,12 +42,17 @@ This open-source checklist helps homeowners **maintain a safe and compliant pool
 - Most pool accidents are **preventable with proper barriers, supervision, and maintenance**.  
 
 ---
+## 📥 Download the Checklist
+
+You can also download this checklist as an **Excel file** for offline use:
+
+➡️ [Download Swimming_Pool_Safety_Checklist.xlsx](https://github.com/mohsinraj/swimming-pool-safety-checklist/raw/main/Swimming_Pool_Safety_Checklist.xlsx)
+
+---
 
 ## 🔗 Additional Resources
 - [CDC: Water Safety](https://www.cdc.gov/drowning/prevention)  
 - [Red Cross: Swimming Safety](https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/water-safety.html)  
-
----
 
 ---
 
